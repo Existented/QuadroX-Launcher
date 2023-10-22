@@ -1,0 +1,14 @@
+﻿<Window x:Class="FortniteLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fortnite Launcher" Height="350" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+            <TextBlock Text="Fortnite Launcher" FontSize="24" FontWeight="Bold" Margin="0 0 0 20" HorizontalAlignment="Center"/>
+            <Button Name="LoginButton" Content="Login with Epic Games" Width="200" Height="40" Margin="0 0 0 10" HorizontalAlignment="Center" />
+            <TextBlock Name="UserInfoText" TextWrapping="Wrap" HorizontalAlignment="Center" Margin="0 0 0 10"/>
+            <Button Name="LaunchButton" Content="Launch Fortnite" Width="200" Height="40" HorizontalAlignment="Center" IsEnabled="False"/>
+            <TextBlock Name="GameStatusText" TextWrapping="Wrap" HorizontalAlignment="Center" Margin="0 10 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>

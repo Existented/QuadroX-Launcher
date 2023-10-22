@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadroX", "QuadroX.csproj", "{98DBFD03-7307-4806-BFB2-675CC8860B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DBFD03-7307-4806-BFB2-675CC8860B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DBFD03-7307-4806-BFB2-675CC8860B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DBFD03-7307-4806-BFB2-675CC8860B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DBFD03-7307-4806-BFB2-675CC8860B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A262BDA-1B62-484A-9606-D1622E0AD341}
+	EndGlobalSection
+EndGlobal
